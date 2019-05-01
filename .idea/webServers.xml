@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e374ab26-b6ca-449e-9fb9-a28bc09bf405" name="adcleandns" url="http://vmi169239.contaboserver.net">
+        <fileTransfer host="vmi169239.contaboserver.net" port="22" rootFolder="/home/adcleandns/public_html/wp-content/plugins/wp-mdm/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
