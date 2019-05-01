@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: WP Mark Deleted Media
-Plugin URI: http://github.com/diazoxide/wp_mdm
+Plugin URI: http://github.com/diazoxide/wp-mdm
 Description: This plugin finds deleted media before post save
 Version: 1.0
 Author: Aaron Yordanyan
